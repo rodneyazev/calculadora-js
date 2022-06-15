@@ -1,1 +1,1 @@
-# CalculadoraJS
+# CalculadoraJS / CalculatorJS
